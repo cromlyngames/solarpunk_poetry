@@ -1,1 +1,177 @@
-/* css styles */
+/* Solarpunk poetry theme */
+
+:root {
+	--sp-bg: #f3faef;
+	--sp-paper: #fcfffa;
+	--sp-text: #1f3528;
+	--sp-muted: #4d6657;
+	--sp-accent: #2f7f57;
+	--sp-accent-soft: #d9efdf;
+	--sp-link: #1f6e56;
+	--sp-link-hover: #15543f;
+	--sp-border: #c9e3cf;
+	--sp-shadow: rgba(35, 74, 54, 0.08);
+}
+
+html,
+body {
+	background: radial-gradient(circle at 10% 12%, #f7fff4 0%, var(--sp-bg) 60%, #edf7e8 100%);
+	color: var(--sp-text);
+}
+
+body {
+	font-family: "Palatino Linotype", Palatino, "Book Antiqua", serif;
+	line-height: 1.72;
+}
+
+#quarto-content,
+.quarto-container,
+main.content {
+	background: linear-gradient(180deg, rgba(252, 255, 250, 0.92), rgba(248, 254, 246, 0.95));
+	border: 1px solid var(--sp-border);
+	border-radius: 14px;
+	box-shadow: 0 10px 26px var(--sp-shadow);
+}
+
+main.content {
+	padding: 1.2rem 1.1rem;
+}
+
+/* Larger text uses Courier per request */
+h1,
+h2,
+h3,
+.navbar-brand,
+.lead,
+blockquote {
+	font-family: "Courier New", Courier, monospace;
+}
+
+h1,
+h2,
+h3 {
+	color: #1b4a33;
+	letter-spacing: 0.01em;
+}
+
+h1 {
+	font-size: clamp(2rem, 4.6vw, 3rem);
+	border-bottom: 2px solid var(--sp-accent-soft);
+	padding-bottom: 0.35rem;
+}
+
+h2 {
+	font-size: clamp(1.45rem, 3.2vw, 2rem);
+	margin-top: 1.7rem;
+}
+
+h3 {
+	font-size: clamp(1.18rem, 2.2vw, 1.45rem);
+}
+
+p,
+li {
+	font-size: 1.04rem;
+}
+
+a {
+	color: var(--sp-link);
+	text-decoration-color: color-mix(in srgb, var(--sp-link) 55%, white);
+	text-underline-offset: 0.15em;
+	transition: color 120ms ease-in-out, text-decoration-color 120ms ease-in-out;
+}
+
+a:hover,
+a:focus-visible {
+	color: var(--sp-link-hover);
+	text-decoration-color: var(--sp-link-hover);
+}
+
+blockquote {
+	background: linear-gradient(90deg, #e6f6e8, #f6fbf4);
+	border-left: 4px solid var(--sp-accent);
+	border-radius: 8px;
+	margin: 1.1rem 0;
+	padding: 0.9rem 1rem;
+	color: #224233;
+}
+
+code,
+pre,
+.sourceCode {
+	background-color: #eef8ee;
+	border: 1px solid var(--sp-border);
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid var(--sp-border);
+}
+
+.navbar {
+	background: linear-gradient(180deg, #f1fbe9, #e8f6e6);
+	border-bottom: 1px solid var(--sp-border);
+}
+
+.navbar a,
+.navbar-brand {
+	color: #244635;
+}
+
+.navbar a:hover,
+.navbar a:focus-visible {
+	color: var(--sp-link-hover);
+}
+
+#quarto-margin-sidebar,
+#quarto-sidebar {
+	background: rgba(242, 251, 238, 0.72);
+	border-left: 1px solid var(--sp-border);
+}
+
+/* Three-speaker poem layout */
+.poem-columns {
+	margin-top: 0.6rem;
+	margin-bottom: 1rem;
+}
+
+.poem-columns .speaker {
+	white-space: pre-line;
+	line-height: 1.62;
+	font-size: 1.04rem;
+}
+
+.poem-columns .speaker-a {
+	margin-top: 0;
+}
+
+.poem-columns .speaker-b {
+	margin-top: 1.05rem;
+	color: #2b5a42;
+}
+
+.poem-columns .speaker-c {
+	margin-top: 2.2rem;
+	color: #2a6749;
+}
+
+/* Improve readability and spacing on small screens */
+@media (max-width: 768px) {
+	main.content {
+		padding: 1rem 0.75rem;
+		border-radius: 10px;
+	}
+
+	h1 {
+		font-size: clamp(1.7rem, 7.4vw, 2.4rem);
+	}
+
+	.poem-columns .column {
+		width: 100% !important;
+	}
+
+	.poem-columns .speaker-b,
+	.poem-columns .speaker-c {
+		margin-top: 0.55rem;
+	}
+}
