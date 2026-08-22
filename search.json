@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "poems/6.html",
-    "href": "poems/6.html",
-    "title": "Haiya",
-    "section": "",
-    "text": "The world ended\nPeople continued. Seasons turn.\nI do karate."
-  },
-  {
-    "objectID": "poems/4.html",
-    "href": "poems/4.html",
-    "title": "Short and loud",
-    "section": "",
-    "text": "There once was a solarpunk band\nOn a stage in a fest and they found\nTheir speakers were loud\nIt impressed the crowd\nTill their battery discharged with a bang!\nPatrick Barry"
-  },
-  {
-    "objectID": "poems/2.html",
-    "href": "poems/2.html",
-    "title": "Permaquilture",
-    "section": "",
-    "text": "The orchard creaks beneath the storm\nBeneath my blankets I am warm\nThe cobots charge inside the barn\nAs the storm washes over our farm\nPatrick Barry"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Solarpunk Poetry Book",
@@ -56,6 +35,27 @@
     "text": "Existing Examples.\nThese are examples i put together to show the tone and style I am looking for. They are not intended to be amazing (or even good, for some of them), but they are a starting point.\nA Gardener Needs Permaquilture Slightly Foxed Short and loud Makerspace Haiya"
   },
   {
+    "objectID": "poems/4.html",
+    "href": "poems/4.html",
+    "title": "Short and loud",
+    "section": "",
+    "text": "There once was a solarpunk band\nOn a stage in a fest and they found\nTheir speakers were loud\nIt impressed the crowd\nTill their battery discharged with a bang!\nPatrick Barry"
+  },
+  {
+    "objectID": "poems/2.html",
+    "href": "poems/2.html",
+    "title": "Permaquilture",
+    "section": "",
+    "text": "The orchard creaks beneath the storm\nBeneath my blankets I am warm\nThe cobots charge inside the barn\nAs the storm washes over our farm\nPatrick Barry"
+  },
+  {
+    "objectID": "poems/3.html",
+    "href": "poems/3.html",
+    "title": "Slightly Foxed",
+    "section": "",
+    "text": "I saw your camdem skirt-\nswirl as you turned-\nfor more books from-\nyour rolling cart.\nOne night you’d smiled-\nand said you’d learned-\nthat reshelving done-\nyou’d touched every book-\nin the building.\nA quiet pride burned-\nat order spun-\nopen to all.\nPatrick Barry"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -77,18 +77,18 @@
     "text": "Contributors\nContributor’s blurbs will go here, linked to their name on the poems"
   },
   {
+    "objectID": "poems/6.html",
+    "href": "poems/6.html",
+    "title": "Haiya",
+    "section": "",
+    "text": "The world ended\nPeople continued. Seasons turn.\nI do karate."
+  },
+  {
     "objectID": "poems/1.html",
     "href": "poems/1.html",
     "title": "A Gardener Needs",
     "section": "",
     "text": "A Gardener needs\nThey need plants and robots\nand spades and lasers\nto grow… to grow…\nweeds! and flowers\nand fruit and peanuts\nand vines and gourds\nand cabbage and mint\nAh Kinder, but most\nof all they need\nPatience\nAnd a friend who likes jam.\n\n\n\nWhat do they need Gran?\nGranny! Granny!\nshe said a naughty word!\nWhat do they need Gran?\n\n\n\nI know! I know!\n\n\n\nby\nPatrick Barry"
-  },
-  {
-    "objectID": "poems/3.html",
-    "href": "poems/3.html",
-    "title": "Slightly Foxed",
-    "section": "",
-    "text": "I saw your camdem skirt-\nswirl as you turned-\nfor more books from-\nyour rolling cart.\nOne night you’d smiled-\nand said you’d learned-\nthat reshelving done-\nyou’d touched every book-\nin the building.\nA quiet pride burned-\nat order spun-\nopen to all.\nPatrick Barry"
   },
   {
     "objectID": "poems/5.html",
