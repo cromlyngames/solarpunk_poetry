@@ -129,6 +129,32 @@ hr {
 	border-left: 1px solid var(--sp-border);
 }
 
+/* Three-speaker poem layout */
+.poem-columns {
+	margin-top: 0.6rem;
+	margin-bottom: 1rem;
+}
+
+.poem-columns .speaker {
+	white-space: pre-line;
+	line-height: 1.62;
+	font-size: 1.04rem;
+}
+
+.poem-columns .speaker-a {
+	margin-top: 0;
+}
+
+.poem-columns .speaker-b {
+	margin-top: 1.05rem;
+	color: #2b5a42;
+}
+
+.poem-columns .speaker-c {
+	margin-top: 2.2rem;
+	color: #2a6749;
+}
+
 /* Improve readability and spacing on small screens */
 @media (max-width: 768px) {
 	main.content {
@@ -138,5 +164,14 @@ hr {
 
 	h1 {
 		font-size: clamp(1.7rem, 7.4vw, 2.4rem);
+	}
+
+	.poem-columns .column {
+		width: 100% !important;
+	}
+
+	.poem-columns .speaker-b,
+	.poem-columns .speaker-c {
+		margin-top: 0.55rem;
 	}
 }
