@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "poems/6.html",
+    "href": "poems/6.html",
+    "title": "Haiya",
+    "section": "",
+    "text": "The world ended\nPeople continued. Seasons turn.\nI do karate."
+  },
+  {
+    "objectID": "poems/4.html",
+    "href": "poems/4.html",
+    "title": "Short and loud",
+    "section": "",
+    "text": "There once was a solarpunk band\nOn a stage in a fest and they found\nTheir speakers were loud\nIt impressed the crowd\nTill their battery discharged with a bang!\nPatrick Barry"
+  },
+  {
+    "objectID": "poems/2.html",
+    "href": "poems/2.html",
+    "title": "Permaquilture",
+    "section": "",
+    "text": "The orchard creaks beneath the storm\nBeneath my blankets I am warm\nThe cobots charge inside the barn\nAs the storm washes over our farm\nPatrick Barry"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Solarpunk Poetry Book",
@@ -32,28 +53,7 @@
     "href": "index.html#existing-examples.",
     "title": "Solarpunk Poetry Book",
     "section": "Existing Examples.",
-    "text": "Existing Examples.\nThese are examples i put together to show the tone and style I am looking for. They are not intended to be amazing (or even good, for some of them), but they are a starting point.\nA Gardener Needs Permaquilture example 3 example 4 example 5 example 6"
-  },
-  {
-    "objectID": "poems/4.html",
-    "href": "poems/4.html",
-    "title": "quarto",
-    "section": "",
-    "text": "Short and loud.\nThere once was a solarpunk band On a stage in a fest and they found Their speakers were loud It impressed the crowd Till their battery discharged with a bang!\nPatrick Barry"
-  },
-  {
-    "objectID": "poems/2.html",
-    "href": "poems/2.html",
-    "title": "Permaquilture",
-    "section": "",
-    "text": "The orchard creaks beneath the storm\nBeneath my blankets I am warm\nThe cobots charge inside the barn\nAs the storm washes over our farm\nPatrick Barry"
-  },
-  {
-    "objectID": "poems/3.html",
-    "href": "poems/3.html",
-    "title": "quarto",
-    "section": "",
-    "text": "Slightly Foxed\nI saw your camdem skirt- swirl as you turned- for more books from- your rolling cart.\nOne night you’d smiled- and said you’d learned- that reshelving done- you’d touched every book-\nin the building. A quiet pride burned- at order spun- open to all.\nPatrick Barry"
+    "text": "Existing Examples.\nThese are examples i put together to show the tone and style I am looking for. They are not intended to be amazing (or even good, for some of them), but they are a starting point.\nA Gardener Needs Permaquilture Slightly Foxed Short and loud Makerspace Haiya"
   },
   {
     "objectID": "about.html",
@@ -77,13 +77,6 @@
     "text": "Contributors\nContributor’s blurbs will go here, linked to their name on the poems"
   },
   {
-    "objectID": "poems/6.html",
-    "href": "poems/6.html",
-    "title": "quarto",
-    "section": "",
-    "text": "The world ended People continued. Seasons turn. I do karate."
-  },
-  {
     "objectID": "poems/1.html",
     "href": "poems/1.html",
     "title": "A Gardener Needs",
@@ -91,10 +84,17 @@
     "text": "A Gardener needs\nThey need plants and robots\nand spades and lasers\nto grow… to grow…\nweeds! and flowers\nand fruit and peanuts\nand vines and gourds\nand cabbage and mint\nAh Kinder, but most\nof all they need\nPatience\nAnd a friend who likes jam.\n\n\n\nWhat do they need Gran?\nGranny! Granny!\nshe said a naughty word!\nWhat do they need Gran?\n\n\n\nI know! I know!\n\n\n\nby\nPatrick Barry"
   },
   {
+    "objectID": "poems/3.html",
+    "href": "poems/3.html",
+    "title": "Slightly Foxed",
+    "section": "",
+    "text": "I saw your camdem skirt-\nswirl as you turned-\nfor more books from-\nyour rolling cart.\nOne night you’d smiled-\nand said you’d learned-\nthat reshelving done-\nyou’d touched every book-\nin the building.\nA quiet pride burned-\nat order spun-\nopen to all.\nPatrick Barry"
+  },
+  {
     "objectID": "poems/5.html",
     "href": "poems/5.html",
-    "title": "quarto",
+    "title": "Makerspace",
     "section": "",
-    "text": "Makerspace\nValentino’s mad at Jonny. Jonny sliced his finger Now Valentino’s got to update the accident book.\nSean has his head down in the corner The soldering iron cools\nPete and Jenny hunch over a laptop Looks like a proposal\nAndre snorts loudly. Rob rubs oil into his plane sole. They are arguing about construction of identity again Or sausages.\nThe kettle finishes boiling. I distribute teas and go to watch my sculpture. The shape hasn’t quite fallen out of its shape yet.\nPatrick Barry"
+    "text": "Valentino’s mad at Jonny.\nJonny sliced his finger\nNow Valentino’s got to\nupdate the accident book.\nSean has his head down\nin the corner\nThe soldering iron\ncools\nPete and Jenny hunch over a laptop\nLooks like a proposal\nAndre snorts loudly. Rob rubs oil into his plane sole.\nThey are arguing about construction of identity again\nOr sausages.\nThe kettle finishes boiling.\nI distribute teas and go to watch my sculpture.\nThe shape hasn’t quite fallen out of its shape yet.\nPatrick Barry"
   }
 ]
