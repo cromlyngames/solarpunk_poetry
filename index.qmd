@@ -5,3 +5,10 @@ title: "quarto"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+[example 1](poems/1.qmd)
+[example 2](poems/2.qmd)
+[example 3](poems/3.qmd)
+[example 4](poems/4.qmd)
+[example 5](poems/5.qmd)
+[example 6](poems/6.qmd)

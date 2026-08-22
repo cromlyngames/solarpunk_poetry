@@ -1,2 +1,6 @@
 /.quarto/
 **/*.quarto_ipynb
+_site/**
+_site/index.html
+_site/index.html
+_site/search.json
