@@ -1,10 +1,52 @@
 ---
-title: "quarto"
+title: "Solarpunk Poetry Book"
 ---
 
-This is a Quarto website.
+It's an idea I can't shake. I love poetry, but I'm pretty miserable at the moment. I can't handle the angst of [Young poets on climate change - the power of being a young writer](https://ypn.poetrysociety.org.uk/features/young-poets-on-climate-change-the-power-of-being-a-young-writer/).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+So, be the change you want.
+
+I want to put together a set of light-hearted poetry about places and characters (like Pam Ayres "Who are you calling vermin"), but set in a recognisable solarpunk world. Poems that might be called "Overheard at the Library", "Ballad of Bike Bridge", "The Agrivoltician's Holiday", "Lawnmower's Reincarnation", etc.
+
+## Examples of the tone I am hoping for
+
+Poetry about people and situations. Funny snapshots.
+
+- Pam Ayres: [https://www.youtube.com/watch?v=mYeVhBUhITI](https://www.youtube.com/watch?v=mYeVhBUhITI)
+- Allan Ahlberg: [https://childrens.poetryarchive.org/poem/talk-us-through-it-charlotte/](https://childrens.poetryarchive.org/poem/talk-us-through-it-charlotte/)
+- Grace Nichols: [https://childrens.poetryarchive.org/poem/cat-rap/](https://childrens.poetryarchive.org/poem/cat-rap/)
+- Roger McGough: [https://childrens.poetryarchive.org/poem/funicular-railway/](https://childrens.poetryarchive.org/poem/funicular-railway/)
+
+Poetry about places and hopeful feelings.
+
+- Matt Goodfellow: [https://childrens.poetryarchive.org/poem/meet-at-the-horizon/](https://childrens.poetryarchive.org/poem/meet-at-the-horizon/)
+- Andrew Fusek-Peters and Polly Peters: [https://childrens.poetryarchive.org/poem/the-nighthawks-after-edward-hopper/](https://childrens.poetryarchive.org/poem/the-nighthawks-after-edward-hopper/)
+- Laura Mucha: [https://childrens.poetryarchive.org/poem/albatross/](https://childrens.poetryarchive.org/poem/albatross/)
+
+## Rough Plan
+
+Small paper book, 34 lines to a page.
+
+Submissions close end of Jan 2027.
+
+Send to [cromlyngames@gmail.com](mailto:cromlyngames@gmail.com) with subject: "solarpunk poetry book submission".
+
+Plan A is all typeset and made available for download, local print on demand (as we have done for Fully Automated RPG). Plan B is using LaTeX to set out as a foldable, bindable zine, and personally doing a limited print run for participants (postage from UK is going to suck).
+
+## What I need
+
+1. Share this to likely people; there is a world out there, and a small target!
+2. If submitting, somewhere between 3-9 English-language poems, ideally 6 with varied topics. This is to get variety so many different people can be accepted.
+3. Ideally no poem longer than 100 lines, be kind to your editor.
+4. Poems rated PG at worst. I want to be able to give a copy of this to my 12 year old niece.
+5. If submitting, include a very short blurb. This may or may not be your real name, I don't really care.
+6. Please include explicit permission for me to share your email address with other editors (UK GDPR).
+7. If you are interested/willing to workshop poems with other entrants, please state so. I'd like to be able to link some like-minded people up together. This is simialr to the fantastic [guides](https://www.reddit.com/r/OCPoetry/wiki/index/) and support on https://www.reddit.com/r/OCPoetry/ with 
+8. If not submitting, but interested in getting a copy at the end, shoot me an email saying so.
+
+## Existing Examples. 
+
+These are examples i put together to show the tone and style I am looking for. They are not intended to be amazing (or even good, for some of them), but they are a starting point.
 
 [example 1](poems/1.qmd)
 [example 2](poems/2.qmd)
@@ -12,3 +54,6 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 [example 4](poems/4.qmd)
 [example 5](poems/5.qmd)
 [example 6](poems/6.qmd)
+
+## code source
+This website is built with quarto from an opensource template at https://github.com/cromlyngames/solarpunk_poetry using the GNU General Public License v3.0. This means that poetry added to the website itself is made available under the same license. 
