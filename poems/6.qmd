@@ -1,3 +1,7 @@
-The world ended
-People continued. Seasons turn.
-I do karate.
+---
+title: "Haiya"
+---
+
+| The world ended
+| People continued. Seasons turn.
+| I do karate.

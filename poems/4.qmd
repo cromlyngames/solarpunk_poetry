@@ -1,9 +1,11 @@
-Short and loud.
+---
+title: "Short and loud"
+---
 
-There once was a solarpunk band
-On a stage in a fest and they found
-Their speakers were loud
-It impressed the crowd
-Till their battery discharged with a bang!
+| There once was a solarpunk band
+| On a stage in a fest and they found
+| Their speakers were loud
+| It impressed the crowd
+| Till their battery discharged with a bang!
 
-Patrick Barry
+| Patrick Barry

@@ -50,8 +50,8 @@ These are examples i put together to show the tone and style I am looking for. T
 
 [A Gardener Needs](poems/1.qmd)
 [Permaquilture](poems/2.qmd)
-[example 3](poems/3.qmd)
-[example 4](poems/4.qmd)
-[example 5](poems/5.qmd)
-[example 6](poems/6.qmd)
+[Slightly Foxed](poems/3.qmd)
+[Short and loud](poems/4.qmd)
+[Makerspace](poems/5.qmd)
+[Haiya](poems/6.qmd)
 
