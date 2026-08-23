@@ -135,6 +135,20 @@ hr {
 	margin-bottom: 1rem;
 }
 
+/* Center poem blocks, keep poem text left-aligned */
+main.content .line-block,
+main.content .poem-columns {
+	max-width: 48rem;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	transform: translateX(33.333%);
+}
+
+.poem-columns .column {
+	text-align: left;
+}
+
 .poem-columns .speaker {
 	white-space: pre-line;
 	line-height: 1.62;
@@ -173,5 +187,11 @@ hr {
 	.poem-columns .speaker-b,
 	.poem-columns .speaker-c {
 		margin-top: 0.55rem;
+	}
+
+	main.content .line-block,
+	main.content .poem-columns {
+		max-width: 100%;
+		transform: none;
 	}
 }
