@@ -1,40 +1,24 @@
 ---
 title: "A Gardener Needs"
 ---
-
-::: {.columns .poem-columns}
-::: {.column width="44%"}
-::: {.speaker .speaker-a}
-| A Gardener needs
-| They need plants and robots
-| and spades and lasers
-| to grow... to grow...
-| weeds! and flowers
-| and fruit and peanuts
-| and vines and gourds
-| and cabbage and mint
-| Ah Kinder, but most
-| of all they need
-| Patience
-| And a friend who likes jam.
-:::
-:::
-
-::: {.column width="28%"}
-::: {.speaker .speaker-b}
-| What do they need Gran?
-| Granny! Granny!
-| she said a naughty word!
-| What do they need Gran?
-:::
-:::
-
-::: {.column width="28%"}
-::: {.speaker .speaker-c}
-| I know! I know!
-:::
-:::
-:::
-
-by  
-Patrick Barry
+|A Gardener needs
+|		What do they need Gran?
+|	I know! I know!
+|	They need plants and robots
+|	and spades and lasers
+|	to grow... to grow...
+|	weeds! and flowers
+|	and fruit and peanuts
+|		Granny! Granny!
+|		she said a naught word!
+|	and vines and gourds
+|	and cabbage and mint
+|
+|Ah Kinder, but most
+|of all they need
+|		What do they need Gran?
+|Patience
+|And a friend who likes jam.
+|
+|by  
+|	Patrick Barry
