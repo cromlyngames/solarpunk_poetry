@@ -1,59 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Solarpunk Poetry Book",
+    "objectID": "blurbs/patrick_barry.html",
+    "href": "blurbs/patrick_barry.html",
+    "title": "quarto",
     "section": "",
-    "text": "It’s an idea I can’t shake. I love poetry, but I’m pretty miserable at the moment. I can’t handle the angst of Young poets on climate change - the power of being a young writer.\nSo, be the change you want.\nI want to put together a set of light-hearted poetry about places and characters (like Pam Ayres “Who are you calling vermin”), but set in a recognisable solarpunk world. Poems that might be called “Overheard at the Library”, “Ballad of Bike Bridge”, “The Agrivoltician’s Holiday”, “Lawnmower’s Reincarnation”, etc."
+    "text": "Patrick Barry lives in Wales, UK."
   },
   {
-    "objectID": "index.html#examples-of-the-tone-i-am-hoping-for",
-    "href": "index.html#examples-of-the-tone-i-am-hoping-for",
-    "title": "Solarpunk Poetry Book",
-    "section": "Examples of the tone I am hoping for",
-    "text": "Examples of the tone I am hoping for\nPoetry about people and situations. Funny snapshots.\n\nPam Ayres: The Dinner Party (live perfomance)\nAllan Ahlberg: Talk Us Through it, Charlotte\nGrace Nichols: Cat Rap\nRoger McGough: Funicular Railway\n\nPoetry about places and hopeful feelings.\n\nMatt Goodfellow: Meet at the Horizon\nAndrew Fusek-Peters and Polly Peters: The Nighthawks (after Edward Hopper)\nLaura Mucha: Albatross"
-  },
-  {
-    "objectID": "index.html#rough-plan",
-    "href": "index.html#rough-plan",
-    "title": "Solarpunk Poetry Book",
-    "section": "Rough Plan",
-    "text": "Rough Plan\nSmall paper book, 34 lines to a page.\nSubmissions close end of Jan 2027.\nSend to cromlyngames@gmail.com with subject: “solarpunk poetry book submission”.\nPlan A is all typeset and made available for download, local print on demand (as we have done for Fully Automated RPG). Plan B is using LaTeX to set out as a foldable, bindable zine, and personally doing a limited print run for participants (postage from UK is going to suck)."
-  },
-  {
-    "objectID": "index.html#what-i-need",
-    "href": "index.html#what-i-need",
-    "title": "Solarpunk Poetry Book",
-    "section": "What I need",
-    "text": "What I need\n\nShare this to likely people; there is a world out there, and a small target!\nIf submitting, somewhere between 3-9 English-language poems, ideally 6 with varied topics. This is to get variety so many different people can be accepted.\nIdeally no poem longer than 100 lines, be kind to your editor.\nPoems rated PG at worst. I want to be able to give a copy of this to my 12 year old niece.\nIf submitting, include a very short blurb. This may or may not be your real name, I don’t really care.\nPlease include explicit permission for me to share your email address with other editors (UK GDPR).\nIf you are interested/willing to workshop poems with other entrants, please state so. I’d like to be able to link some like-minded people up together. This is simialr to the fantastic guides and support on https://www.reddit.com/r/OCPoetry/ with the caveat I’m just a member there.\nIf not submitting, but interested in getting a copy at the end, shoot me an email saying so."
-  },
-  {
-    "objectID": "index.html#existing-examples.",
-    "href": "index.html#existing-examples.",
-    "title": "Solarpunk Poetry Book",
-    "section": "Existing Examples.",
-    "text": "Existing Examples.\nThese are examples i put together to show the tone and style I am looking for. They are not intended to be amazing (or even good, for some of them), but they are a starting point.\nA Gardener Needs Permaquilture Slightly Foxed Short and loud Makerspace Haiya"
-  },
-  {
-    "objectID": "poems/4.html",
-    "href": "poems/4.html",
-    "title": "Short and loud",
+    "objectID": "poems/5.html",
+    "href": "poems/5.html",
+    "title": "Makerspace",
     "section": "",
-    "text": "There once was a solarpunk band\nOn a stage in a fest and they found\nTheir speakers were loud\nIt impressed the crowd\nTill their battery discharged with a bang!\nPatrick Barry"
+    "text": "Valentino’s mad at Jonny.\nJonny sliced his finger\nNow Valentino’s got to\nupdate the accident book.\nSean has his head down\nin the corner\nThe soldering iron\ncools\nPete and Jenny hunch over a laptop\nLooks like a proposal\nAndre snorts loudly. Rob rubs oil into his plane sole.\nThey are arguing about construction of identity again\nOr sausages.\nThe kettle finishes boiling.\nI distribute teas and go to watch my sculpture.\nThe shape hasn’t quite fallen out of its shape yet.\n\nPatrick Barry"
   },
   {
-    "objectID": "poems/2.html",
-    "href": "poems/2.html",
-    "title": "Permaquilture",
+    "objectID": "poems/1.html",
+    "href": "poems/1.html",
+    "title": "A Gardener Needs",
     "section": "",
-    "text": "The orchard creaks beneath the storm\nBeneath my blankets I am warm\nThe cobots charge inside the barn\nAs the storm washes over our farm\nPatrick Barry"
+    "text": "A Gardener needs\n      What do they need Gran?\n          I know! I know!\n          They need plants and robots\n          and spades and lasers\n          to grow… to grow…\n\n          weeds! and flowers\n          and fruit and peanuts\n      Granny! Granny!\n      she said a naughty word!\n          and vines and gourds\n          and cabbage and mint\n\nAh Kinder, but most\nof all they need\n      What do they need Gran?\nPatience\nAnd a friend who likes jam.\n\nPatrick Barry"
   },
   {
-    "objectID": "poems/3.html",
-    "href": "poems/3.html",
-    "title": "Slightly Foxed",
+    "objectID": "poems/6.html",
+    "href": "poems/6.html",
+    "title": "Haiya",
     "section": "",
-    "text": "I saw your camdem skirt-\nswirl as you turned-\nfor more books from-\nyour rolling cart.\nOne night you’d smiled-\nand said you’d learned-\nthat reshelving done-\nyou’d touched every book-\nin the building.\nA quiet pride burned-\nat order spun-\nopen to all.\nPatrick Barry"
+    "text": "The world ended\nPeople continued. Seasons turn.\nI do karate."
   },
   {
     "objectID": "about.html",
@@ -77,24 +49,59 @@
     "text": "Contributors\nContributor’s blurbs will go here, linked to their name on the poems"
   },
   {
-    "objectID": "poems/6.html",
-    "href": "poems/6.html",
-    "title": "Haiya",
+    "objectID": "poems/3.html",
+    "href": "poems/3.html",
+    "title": "Slightly Foxed",
     "section": "",
-    "text": "The world ended\nPeople continued. Seasons turn.\nI do karate."
+    "text": "I saw your camdem skirt-\nswirl as you turned-\nfor more books from-\nyour rolling cart.\nOne night you’d smiled-\nand said you’d learned-\nthat reshelving done-\nyou’d touched every book-\nin the building.\nA quiet pride burned-\nat order spun-\nopen to all.\n\nPatrick Barry"
   },
   {
-    "objectID": "poems/1.html",
-    "href": "poems/1.html",
-    "title": "A Gardener Needs",
+    "objectID": "poems/2.html",
+    "href": "poems/2.html",
+    "title": "Permaquilture",
     "section": "",
-    "text": "|A Gardener needs | What do they need Gran? | I know! I know! | They need plants and robots | and spades and lasers | to grow… to grow… | weeds! and flowers | and fruit and peanuts | Granny! Granny! | she said a naught word! | and vines and gourds | and cabbage and mint | |Ah Kinder, but most |of all they need | What do they need Gran? |Patience |And a friend who likes jam. | |by\n| Patrick Barry"
+    "text": "The orchard creaks beneath the storm\nBeneath my blankets I am warm\nThe cobots charge inside the barn\nAs the storm washes over our farm\nPatrick Barry"
   },
   {
-    "objectID": "poems/5.html",
-    "href": "poems/5.html",
-    "title": "Makerspace",
+    "objectID": "poems/4.html",
+    "href": "poems/4.html",
+    "title": "Short and loud",
     "section": "",
-    "text": "Valentino’s mad at Jonny.\nJonny sliced his finger\nNow Valentino’s got to\nupdate the accident book.\nSean has his head down\nin the corner\nThe soldering iron\ncools\nPete and Jenny hunch over a laptop\nLooks like a proposal\nAndre snorts loudly. Rob rubs oil into his plane sole.\nThey are arguing about construction of identity again\nOr sausages.\nThe kettle finishes boiling.\nI distribute teas and go to watch my sculpture.\nThe shape hasn’t quite fallen out of its shape yet.\nPatrick Barry"
+    "text": "There once was a solarpunk band\nOn a stage in a fest and they found\nTheir speakers were loud\nIt impressed the crowd\nTill their battery discharged with a bang!\n\nPatrick Barry"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Solarpunk Poetry Book",
+    "section": "",
+    "text": "It’s an idea I can’t shake. I love poetry, but I’m pretty miserable at the moment. I can’t handle the angst of Young poets on climate change - the power of being a young writer.\nSo, be the change you want.\nI want to put together a set of light-hearted poetry about places and characters (like Pam Ayres “Who are you calling vermin”), but set in a recognisable solarpunk world. Poems that might be called “Overheard at the Library”, “Ballad of Bike Bridge”, “The Agrivoltician’s Holiday”, “Lawnmower’s Reincarnation”, etc."
+  },
+  {
+    "objectID": "index.html#examples-of-the-tone-i-am-hoping-for",
+    "href": "index.html#examples-of-the-tone-i-am-hoping-for",
+    "title": "Solarpunk Poetry Book",
+    "section": "Examples of the tone I am hoping for",
+    "text": "Examples of the tone I am hoping for\nPoetry about people and situations. Funny snapshots.\n\nPam Ayres: The Dinner Party (live perfomance)\nAllan Ahlberg: Talk Us Through it, Charlotte\nAlfred Noyes: Daddy Fell into the Pond\nGrace Nichols: Cat Rap\nRoger McGough: Funicular Railway\n\nPoetry about places and hopeful feelings.\n\nMatt Goodfellow: Meet at the Horizon\nAndrew Fusek-Peters and Polly Peters: The Nighthawks (after Edward Hopper)\nLaura Mucha: Albatross"
+  },
+  {
+    "objectID": "index.html#rough-plan",
+    "href": "index.html#rough-plan",
+    "title": "Solarpunk Poetry Book",
+    "section": "Rough Plan",
+    "text": "Rough Plan\nSmall paper book, 34 lines to a page.\nSubmissions close end of Jan 2027.\nSend to cromlyngames@gmail.com with subject: “solarpunk poetry book submission”.\nPlan A is all typeset and made available for download, local print on demand (as we have done for Fully Automated RPG). Plan B is using LaTeX to set out as a foldable, bindable zine, and personally doing a limited print run for participants (postage from UK is going to suck)."
+  },
+  {
+    "objectID": "index.html#what-i-need",
+    "href": "index.html#what-i-need",
+    "title": "Solarpunk Poetry Book",
+    "section": "What I need",
+    "text": "What I need\n\nShare this to likely people; there is a world out there, and a small target!\nIf submitting, somewhere between 3-9 English-language poems, ideally 6 with varied topics. This is to get variety so many different people can be accepted.\nIdeally no poem longer than 100 lines, be kind to your editor.\nPoems rated PG at worst. I want to be able to give a copy of this to my 12 year old niece.\nIf submitting, include a very short blurb. This may or may not be your real name, I don’t really care.\nPlease include explicit permission for me to share your email address with other editors (UK GDPR).\nIf you are interested/willing to workshop poems with other entrants, please state so. I’d like to be able to link some like-minded people up together. This is simialr to the fantastic guides and support on https://www.reddit.com/r/OCPoetry/ with the caveat I’m just a member there.\nIf not submitting, but interested in getting a copy at the end, shoot me an email saying so."
+  },
+  {
+    "objectID": "index.html#existing-examples.",
+    "href": "index.html#existing-examples.",
+    "title": "Solarpunk Poetry Book",
+    "section": "Existing Examples.",
+    "text": "Existing Examples.\nThese are examples i put together to show the tone and style I am looking for. They are not intended to be amazing (or even good, for some of them), but they are a starting point.\nA Gardener Needs Permaquilture Slightly Foxed Short and loud Makerspace Haiya"
   }
 ]

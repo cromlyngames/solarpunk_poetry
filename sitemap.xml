@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cromlyngames.github.io/solarpunk_poetry/index.html</loc>
-    <lastmod>2026-08-23T08:25:00.744Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/4.html</loc>
-    <lastmod>2026-08-23T08:25:00.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/2.html</loc>
-    <lastmod>2026-08-23T08:25:00.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/3.html</loc>
-    <lastmod>2026-08-23T08:25:00.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cromlyngames.github.io/solarpunk_poetry/about.html</loc>
-    <lastmod>2026-08-23T08:25:00.744Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/6.html</loc>
-    <lastmod>2026-08-23T08:25:00.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/1.html</loc>
-    <lastmod>2026-08-23T08:25:00.744Z</lastmod>
+    <loc>https://cromlyngames.github.io/solarpunk_poetry/blurbs/patrick_barry.html</loc>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
   </url>
   <url>
     <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/5.html</loc>
-    <lastmod>2026-08-23T08:25:00.745Z</lastmod>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/1.html</loc>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/6.html</loc>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cromlyngames.github.io/solarpunk_poetry/about.html</loc>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/3.html</loc>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/2.html</loc>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cromlyngames.github.io/solarpunk_poetry/poems/4.html</loc>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cromlyngames.github.io/solarpunk_poetry/index.html</loc>
+    <lastmod>2026-08-23T11:39:04.725Z</lastmod>
   </url>
 </urlset>
