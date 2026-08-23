@@ -21,5 +21,4 @@ title: "A Gardener Needs"
 | Patience
 | And a friend who likes jam.
 |
-| by  
-|	Patrick Barry
+Patrick Barry
