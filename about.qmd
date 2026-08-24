@@ -8,3 +8,4 @@ This website is built with quarto from an opensource template at https://github.
 ## Contributors
 
 Contributor's blurbs will go here, linked to their name on the poems
+[Patrick Barry](blurbs/patrick_barry.qmd)
